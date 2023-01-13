@@ -1,3 +1,5 @@
+Moved to https://github.com/eyereasoner/Koreografeye 
+
 # Koreografeye
 
 This is a miniature implementation of an choreographer implementing the [Orchestrator for a decentralized Web network](https://mellonscholarlycommunication.github.io/spec-orchestrator/) specification using the [EYE](https://github.com/eyereasoner/eye) reasoner as internal rule engine.
